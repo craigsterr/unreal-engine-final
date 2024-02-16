@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/LearningKit_Games/Blueprints/UI/HealthWidget.uasset",
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/LearningKit_Games/Blueprints/UI/T_Restart.uasset",
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/LearningKit_Games/Blueprints/UI/ScoreWidget.uasset",
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/NewMap.umap",
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/LearningKit_Games/Blueprints/UI/RestartWidget.uasset",
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/LearningKit_Games/Blueprints/Enemy/Pursuer_AIController.uasset",
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/LearningKit_Games/Blueprints/Enemy/BP_Pursuer.uasset",
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/LearningKit_Games/Blueprints/Enemy/EAIState.uasset",
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/InfiniteMatrix/UI/T_Restart.uasset",
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/BlockGame/PlayerCharacter/HealthWidget.uasset",
+				"C:/Users/craig/OneDrive/Documents/Unreal Projects/UnrealLearningKit3 5.3/Content/LearningKit_Games/Blueprints/HealthWidget.uasset"
+			]
+		}
+	]
+}
