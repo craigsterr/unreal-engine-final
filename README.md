@@ -33,10 +33,6 @@ Assets used from the Unreal Learning Kit:
 
 See `Link to Source Assets.txt` for more info.
 
-## 📸 Screenshots (optional)
-
-*Add in-game screenshots here if you have them*
-
 ## 📄 License
 
 This project is for personal and academic use. Educational assets belong to Epic Games under the Unreal Learning Kit terms.
